@@ -1,0 +1,9 @@
+{
+	"name": "medallion-adf20",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ae6ed38-ca27-433c-9a2d-c8f0d1033daa",
+		"tenantId": "f961bd8f-451f-4163-92ae-074e98cbfae2"
+	}
+}
